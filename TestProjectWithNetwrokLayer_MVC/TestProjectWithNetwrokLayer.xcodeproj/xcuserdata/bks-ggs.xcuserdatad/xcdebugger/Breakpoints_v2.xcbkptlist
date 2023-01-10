@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1791B93C-B269-44CD-88BD-1611E1C9FB51"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F08C07C-B9A2-4805-B281-9A316CD05F56"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestProjectWithNetwrokLayer/View/CustomCell/NewsCellTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "configureCellData(hit:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3EF52EF3-1637-44EA-9274-20B2A04DF34E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestProjectWithNetwrokLayer/ApiManager/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "getNewsFrom(url:closure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3EF52EF3-1637-44EA-9274-20B2A04DF34E - 891e78f2f0b7182b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestProjectWithNetwrokLayer.APIManager.getNewsFrom(url: Swift.String, closure: (Swift.Optional&lt;TestProjectWithNetwrokLayer.NewsModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestProjectWithNetwrokLayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bks-ggs/Desktop/TestProjectWithNetwrokLayer/TestProjectWithNetwrokLayer/ApiManager/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "325">
+               </Location>
+               <Location
+                  uuid = "3EF52EF3-1637-44EA-9274-20B2A04DF34E - 891e78f2f0b7182b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestProjectWithNetwrokLayer.APIManager.getNewsFrom(url: Swift.String, closure: (Swift.Optional&lt;TestProjectWithNetwrokLayer.NewsModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestProjectWithNetwrokLayer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bks-ggs/Desktop/TestProjectWithNetwrokLayer/TestProjectWithNetwrokLayer/ApiManager/ApiManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "847">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F155F5C-E960-4427-803D-2EB25B114BCE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestProjectWithNetwrokLayer/ApiManager/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "getNewsFrom(url:closure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FE4D28C-88CA-46C9-B71D-65B83170DD8D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestProjectWithNetwrokLayer/ApiManager/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getNewsFrom(url:closure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89969E7D-176F-498F-9E7F-E87D82CF9418"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestProjectWithNetwrokLayer/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42A82325-ECA3-4D69-AD88-D6A63D90762B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestProjectWithNetwrokLayerTests/TestProjectWithNetwrokLayerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "testGetNewsFromPass()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "42A82325-ECA3-4D69-AD88-D6A63D90762B - fae52ea57b5b3f3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TestProjectWithNetwrokLayer.NewsModel) -&gt; () in TestProjectWithNetwrokLayerTests.TestProjectWithNetwrokLayerTests.testGetNewsFromPass() throws -&gt; ()"
+                  moduleName = "TestProjectWithNetwrokLayerTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bks-ggs/Desktop/TestProjectWithNetwrokLayer/TestProjectWithNetwrokLayerTests/TestProjectWithNetwrokLayerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  uuid = "42A82325-ECA3-4D69-AD88-D6A63D90762B - 711f201597ecae2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TestProjectWithNetwrokLayer.NewsModel&gt;) -&gt; () in TestProjectWithNetwrokLayerTests.TestProjectWithNetwrokLayerTests.testGetNewsFromPass() throws -&gt; ()"
+                  moduleName = "TestProjectWithNetwrokLayerTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bks-ggs/Desktop/TestProjectWithNetwrokLayer/TestProjectWithNetwrokLayerTests/TestProjectWithNetwrokLayerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "103">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC00B8C0-447B-4A3A-BF44-358D2ACA01E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestProjectWithNetwrokLayer/ApiManager/ApiManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getNewsFrom(url:closure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E65C55B-E4C5-477F-8C61-9CD6135E27EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestProjectWithNetwrokLayerTests/TestProjectWithNetwrokLayerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "testGetNewsFromPass()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7E65C55B-E4C5-477F-8C61-9CD6135E27EF - 98fff070c22ea09b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TestProjectWithNetwrokLayerTests.TestProjectWithNetwrokLayerTests.testGetNewsFromPass() throws -&gt; ()"
+                  moduleName = "TestProjectWithNetwrokLayerTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bks-ggs/Desktop/TestProjectWithNetwrokLayer/TestProjectWithNetwrokLayerTests/TestProjectWithNetwrokLayerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "7E65C55B-E4C5-477F-8C61-9CD6135E27EF - 98fff070c22ea09b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TestProjectWithNetwrokLayerTests.TestProjectWithNetwrokLayerTests.testGetNewsFromPass() throws -&gt; ()"
+                  moduleName = "TestProjectWithNetwrokLayerTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bks-ggs/Desktop/TestProjectWithNetwrokLayer/TestProjectWithNetwrokLayerTests/TestProjectWithNetwrokLayerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97DD6BB4-6249-49B6-83D4-AA2340131595"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestProjectWithNetwrokLayerTests/TestProjectWithNetwrokLayerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "testGetNewsFromWithNoUrl()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
